@@ -1,0 +1,12 @@
+[
+  {
+    "inputs": [
+      { "internalType": "string", "name": "to", "type": "string" },
+      { "internalType": "string", "name": "subject", "type": "string" }
+    ],
+    "name": "send_mail",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  }
+]

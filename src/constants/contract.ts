@@ -1,0 +1,26 @@
+import { polygonZkEvmTokens } from '@pancakeswap/tokens'
+
+export const contracts = {
+  ETH:{
+
+  },
+  POLY_ZKEVM:{
+    USDC: '0x1E4a5963aBFD975d8c9021ce480b42188849D41d',
+    USDT: '0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035',
+    PANCAKESWAP: '0x678Aa4bF4E210cf2166753e054d5b7c31cc7fa86',
+    SAOTRI: {
+      ADDRESS: '0x1E4a5963aBFD975d8c9021ce480b42188849D41d',
+      ROUTER: '0x565a740466a195f9B2Ca10CffC917a190729cdd1'
+    },
+    MANTISSA: '0x12d41b6DF938C739F00c392575e3FD9292d98215',
+    KEOM: {
+      ADDRESS: '0x6a40d2fe56c990db316e00491d4dbdc088693d5a',  // 合约部署地址
+      ROUTER: '0xad41c77d99e282267c1492cdefe528d7d5044253'  // 实际调用
+    },
+    CROSSCHAINNFT: '0x5A3b2E7f335be432f834b3F1bfEf19B44d1f310C'
+  },
+  OPBNB:{
+    CARV: '0xc32338E7F84F4c01864c1D5B2b0c0c7c697c25DC'
+  }
+}
+

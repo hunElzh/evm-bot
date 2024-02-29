@@ -1,0 +1,39 @@
+{
+  "name": "ethers-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "@pancakeswap/sdk": "^5.7.5",
+    "@pancakeswap/smart-router": "4.2.1",
+    "@pancakeswap/tokens": "^0.6.0",
+    "axios": "^1.5.1",
+    "crypto-js": "^4.1.1",
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "graphql-request": "^6.1.0",
+    "p-limit": "^4.0.0",
+    "picocolors": "^1.0.0",
+    "prompts": "^2.4.2",
+    "viem": "^1.3.1",
+    "ws": "^8.16.0",
+    "zksync-web3": "^0.15.5"
+  },
+  "devDependencies": {
+    "@holazz/eslint-config": "^1.4.8",
+    "@types/crypto-js": "^4.1.3",
+    "@types/node": "^20.11.5",
+    "@types/prompts": "^2.4.7",
+    "eslint": "^8.51.0",
+    "prettier": "^3.0.3",
+    "tsx": "^3.14.0",
+    "typescript": "^5.2.2",
+    "wagmi": "^1.3.9"
+  }
+}

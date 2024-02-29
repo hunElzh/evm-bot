@@ -1,0 +1,26 @@
+{
+  "recommendations": [
+    "holazz.vsc-open-in-browser",
+    "holazz.vsc-reveal",
+    "antfu.iconify",
+    "antfu.icons-carbon",
+    "antfu.vite",
+    "antfu.unocss",
+    "Vue.volar",
+    "esbenp.prettier-vscode",
+    "file-icons.file-icons",
+    "dbaeumer.vscode-eslint",
+    "jock.svg",
+    "k--kato.intellij-idea-keybindings",
+    "gitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "znck.grammarly",
+    "intellsmi.comment-translate",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "voorjaar.windicss-intellisense",
+    "WakaTime.vscode-wakatime",
+    "amodio.tsl-problem-matcher"
+  ]
+}
